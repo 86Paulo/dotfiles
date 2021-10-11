@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = paulo.pp.araujo@gmail.com
+	name = paulo araujo
